@@ -7,6 +7,9 @@ secondary-color : #E76F51 : */
 .bz-bg-primary{
     background-color: #E76F51;
 }
+.bz-text-primary{
+    color: #E76F51;
+}
 .img-1{
     position: relative;
 }
@@ -14,4 +17,10 @@ secondary-color : #E76F51 : */
     position: relative;
     top: 0;
     width: 100px;
+}
+.icon{
+    width: 20px;
+}
+.text-color{
+    color:  #23A6F0;
 }
