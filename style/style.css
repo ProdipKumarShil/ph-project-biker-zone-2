@@ -1,0 +1,17 @@
+/* primary-color : #264653 :
+secondary-color : #E76F51 : */
+
+.header-bg{
+    background-color: #264653;
+}
+.bz-bg-primary{
+    background-color: #E76F51;
+}
+.img-1{
+    position: relative;
+}
+.img-2{
+    position: relative;
+    top: 0;
+    width: 100px;
+}
